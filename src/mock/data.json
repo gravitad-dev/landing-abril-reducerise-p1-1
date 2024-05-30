@@ -1,0 +1,185 @@
+{
+  "MENU_LINKS": [
+    {
+      "id": 1,
+      "text": "Inicio",
+      "href": "#",
+      "isExternal": false
+    },
+    {
+      "id": 2,
+      "text": "Soluciones",
+      "href": "#soluciones",
+      "isExternal": false
+    },
+    {
+      "id": 3,
+      "text": "Galeria",
+      "href": "#galeria",
+      "isExternal": false
+    },
+    {
+      "id": 4,
+      "text": "Clientes",
+      "href": "#clientes",
+      "isExternal": false
+    },
+    {
+      "id": 5,
+      "text": "Comenzar",
+      "href": "#comenzar",
+      "isExternal": false
+    },
+    {
+      "id": 6,
+      "text": "Blog",
+      "href": "https://reducerise.blog.smartbiderdev.com",
+      "isExternal": true
+    },
+    {
+      "id": 7,
+      "text": "Proyectos",
+      "href": "#proyectos",
+      "isExternal": false
+    }
+  ],
+  "FOOTER_SOCIAL": [
+    {
+      "id": 1,
+      "text": "LinkedIn",
+      "title": "LinkedIn",
+      "href": "#",
+      "icon": "https://res.cloudinary.com/dj0postuh/image/upload/f_auto,q_auto/v1/icons/jwsoqz6psgevozuivwry"
+    }
+  ],
+  "logo": "/logo.png",
+  "section-one": {
+    "title": "Transformando la Distribución de Alimentos",
+    "subtitle": {
+      "paragraph1": "En ReduceRiseDistribution, nos enorgullece liderar una revolución en la industria de la distribución de alimentos. Somos más que una empresa; somos agentes del cambio, impulsados por una misión clara: reducir las mermas en la cadena de distribución de alimentos y fomentar un futuro más sostenible.",
+      "paragraph2": "Nuestra plataforma innovadora está diseñada para abordar uno de los desafíos más apremiantes de la industria alimentaria: el desperdicio. Con tecnología de vanguardia y un enfoque centrado en los datos, facilitamos la optimización de la cadena de suministro, desde la producción hasta el consumidor final."
+    },
+    "cta": {
+      "text": "Ver más",
+      "href": "https://reducerise.blog.smartbiderdev.com"
+    },
+    "img": "https://res.cloudinary.com/dj0postuh/image/upload/v1713366245/hero-img.webp",
+    "items": [
+      {
+        "id": 1,
+        "number": "850",
+        "desc": "Example 1"
+      },
+      {
+        "id": 2,
+        "number": "578",
+        "desc": "Example 2"
+      },
+      {
+        "id": 3,
+        "number": "97",
+        "desc": "Example 3"
+      },
+      {
+        "id": 4,
+        "number": "24",
+        "desc": "Example 4"
+      }
+    ]
+  },
+  "section-two": {
+    "title": "Reduce las mermas, aumenta tu impacto.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Quiénes somos",
+        "desc": "En Reduce Rise Distribution, estamos comprometidos con la transformación del panorama de la distribución de alimentos. Nos especializamos en ofrecer una plataforma innovadora que aborda el desafío de las mermas en la distribución de alimentos de manera inteligente y efectiva.",
+        "icon": "https://res.cloudinary.com/dj0postuh/image/upload/f_auto,q_auto/v1/icons/xq9reerpdggpbbjv46xx"
+      },
+      {
+        "id": 2,
+        "title": "Misión",
+        "desc": "Nuestra misión es diseñar, desarrollar e implementar una plataforma inteligente de compra online que no solo simplifique el proceso de compra, sino que también reduzca significativamente las mermas en la distribución de alimentos. Buscamos mejorar la eficiencia en la cadena de suministro y contribuir al uso más responsable de los recursos alimentarios.",
+        "icon": "https://res.cloudinary.com/dj0postuh/image/upload/f_auto,q_auto/v1/icons/qwfumt6qdls1qa5k9jdl"
+      },
+      {
+        "id": 3,
+        "title": "Visión",
+        "desc": "Nuestra visión es ser líderes en la reducción de mermas en la distribución de alimentos a nivel global. Aspiramos a crear un mundo donde la tecnología y la colaboración entre proveedores y consumidores permitan un sistema de distribución más sostenible y eficiente.",
+        "icon": "https://res.cloudinary.com/dj0postuh/image/upload/f_auto,q_auto/v1/icons/qxokkzrrm05mxkhgies2"
+      }
+    ]
+  },
+  "section-three": {
+    "title": "Únete a nosotros en nuestro viaje hacia una distribución de alimentos más inteligente, más eficiente y más sostenible. ",
+    "photos": [
+      {
+        "id": 1,
+        "url": "/camion.jpg",
+        "alt": "camion con alimentos"
+      },
+      {
+        "id": 2,
+        "url": "/repositor.jpg",
+        "alt": "repositor con manzanas"
+      },
+      {
+        "id": 3,
+        "url": "/celular-en-supermercado.jpg",
+        "alt": "hombre viendo su celular en un supermercado"
+      },
+      {
+        "id": 4,
+        "url": "/celular.jpg",
+        "alt": "celular en un supermercado"
+      },
+      {
+        "id": 5,
+        "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713366392/gallery/rje3cxle3ov7obgmqs2j.webp",
+        "alt": "agricultor"
+      },
+      {
+        "id": 6,
+        "url": "/mujer-sonriendo.jpg",
+        "alt": "mujer sonriendo en un supermercado"
+      }
+    ]
+  },
+  "section-four": {
+    "title": "Nuestros proyecto",
+    "projects": [
+      {
+        "id": 1,
+        "title": "PLATAFORMA PARA LA REDUCCIÓN DE MERMAS EN LA DISTRIBUCIÓN DE ALIMENTACIÓN",
+        "desc": "¡Convierte desperdicio en oportunidades con nuestra plataforma para la reducción de mermas en la distribución de alimentos!",
+        "img": {
+          "url": "/project.webp",
+          "alt": "PLATAFORMA PARA LA REDUCCIÓN DE MERMAS EN LA DISTRIBUCIÓN DE ALIMENTACIÓN"
+        }
+      }
+    ]
+  },
+  "section-five": {
+    "title": "¿Tienes curiosidad?",
+    "link": "mailto:reducerise@gmail.com"
+  },
+  "section-six": [
+    "Increíble servicio al cliente y productos de alta calidad. ¡Definitivamente recomendaré esta empresa a todos mis amigos y familiares!",
+    "La experiencia de compra fue fluida y sin complicaciones. Estoy muy impresionado con la atención al detalle y la rapidez en la entrega",
+    "¡Finalmente encontré lo que estaba buscando! Los productos superaron mis expectativas y el equipo de soporte fue excepcional en todo momento."
+  ],
+  "section-seven": {
+    "title": "Únete a nosotros",
+    "images": ["/unete-a-nosotros.jpg", "/unete-a-nosotros-woman.avif"],
+    "text": {
+      "one": {
+        "title": "Qué nos hace diferentes:",
+        "desc": "En Reduce Rise Distribution, nos destacamos por nuestra plataforma inteligente que utiliza análisis de datos y aprendizaje automático para generar sugerencias de productos personalizadas, facilitar compras en múltiples supermercados, permitir la realización de pujas por productos y conectar a proveedores para reducir mermas y comercializar productos perecederos. Nuestra tecnología innovadora nos permite abordar el problema de las mermas de manera integral y eficaz."
+      },
+      "two": {
+        "title": "Por qué confiar en nosotros:",
+        "desc": "Puedes confiar en nosotros porque estamos comprometidos con la excelencia, la innovación y la sostenibilidad. Nuestra plataforma ha sido diseñada con los más altos estándares de calidad y seguridad, y nuestro equipo está dedicado a proporcionar un servicio excepcional a nuestros clientes. Además, tenemos una sólida trayectoria de éxito y hemos sido reconocidos por nuestra capacidad para ofrecer soluciones efectivas en la reducción de mermas en la distribución de alimentos."
+      }
+    }
+  }
+}
