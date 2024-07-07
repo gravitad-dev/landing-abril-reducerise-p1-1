@@ -20,8 +20,8 @@
     },
     {
       "id": 4,
-      "text": "Clientes",
-      "href": "#clientes",
+      "text": "Proyectos",
+      "href": "#proyectos",
       "isExternal": false
     },
     {
@@ -32,24 +32,41 @@
     },
     {
       "id": 6,
-      "text": "Blog",
-      "href": "https://reducerise.blog.smartbiderdev.com",
-      "isExternal": true
+      "text": "Clientes",
+      "href": "#clientes",
+      "isExternal": false
     },
     {
       "id": 7,
-      "text": "Proyectos",
-      "href": "#proyectos",
-      "isExternal": false
+      "text": "Blog",
+      "href": "https://reducerise.blog.smartbiderdev.com",
+      "isExternal": true
     }
   ],
   "FOOTER_SOCIAL": [
     {
       "id": 1,
+      "text": "Instagram",
+      "title": "Instagram",
+      "href": "https://www.instagram.com/reducerise"
+    },
+    {
+      "id": 2,
+      "text": "Facebook",
+      "title": "Facebook",
+      "href": "https://www.facebook.com/profile.php?id=61559191717045"
+    },
+    {
+      "id": 3,
       "text": "LinkedIn",
       "title": "LinkedIn",
-      "href": "#",
-      "icon": "https://res.cloudinary.com/dj0postuh/image/upload/f_auto,q_auto/v1/icons/jwsoqz6psgevozuivwry"
+      "href": "https://www.linkedin.com/company/reduce-rise-distribution"
+    },
+    {
+      "id": 4,
+      "text": "X",
+      "title": "X",
+      "href": "https://x.com/reducerise"
     }
   ],
   "logo": "/logo.png",
@@ -161,7 +178,7 @@
   },
   "section-five": {
     "title": "¿Tienes curiosidad?",
-    "link": "mailto:reducerise@gmail.com"
+    "link": "https://reducerise.blog.smartbiderdev.com/contacto"
   },
   "section-six": [
     "Increíble servicio al cliente y productos de alta calidad. ¡Definitivamente recomendaré esta empresa a todos mis amigos y familiares!",
@@ -170,7 +187,10 @@
   ],
   "section-seven": {
     "title": "Únete a nosotros",
-    "images": ["/unete-a-nosotros.jpg", "/unete-a-nosotros-woman.avif"],
+    "images": [
+      "/unete-a-nosotros.jpg",
+      "/unete-a-nosotros-woman.avif"
+    ],
     "text": {
       "one": {
         "title": "Qué nos hace diferentes:",

@@ -1,6 +1,7 @@
 const Layout = ({ children }) => {
   return (
-    <div className="px-3  lg:pt-[120px] max-w-[1440px] mx-auto">{children}</div>
+    <div className="px-4 xl:px-0  py-[72px] lg:py-[96px] max-w-[1200px] mx-auto">{children}</div>
   );
 };
+
 export default Layout;

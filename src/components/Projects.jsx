@@ -6,7 +6,7 @@ const Projects = () => {
       <h2 className='subtitle title-gradient'>{data['section-four'].title}</h2>
       <div className=' mt-10  flex items-center justify-center'>
         {data['section-four'].projects.map((project) => (
-          <div key={project.id} className='shadow-md rounded-md flex-1'>
+          <div key={project.id} className=' rounded-lg flex-1 bg-white border border-gray-600 p-4'>
             <div
               className='h-[300px] max-h-[400px] w-full rounded-md overflow-hidden
               bg-no-repeat bg-center md:bg-left-bottom

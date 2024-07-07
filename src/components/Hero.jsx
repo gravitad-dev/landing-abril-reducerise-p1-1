@@ -7,15 +7,16 @@ const Hero = () => {
       id='#'
       className='
       flex flex-col justify-center items-center gap-5 lg:flex-row  lg:justify-end
-      h-[100vh]
-      '
+        md:h-[100vh]  py-24
+        relative'
       style={{
         backgroundImage: `url(${data['section-one'].img})`,
         backgroundPosition: 'center',
         backgroundSize: 'cover',
       }}
     >
-      <div className='absolute inset-0 bg-black/70 z-10'></div>
+      <div className='absolute inset-0 bg-gradient-to-b from-[#121111] via-[#121111]/90 via-60% to-[#46D643]/20 z-10'></div>
+
       {/* text */}
       <div className='flex-1 z-20 px-2 py-5 flex flex-col items-center justify-center max-w-[800px] mx-auto'>
         <h1
@@ -24,10 +25,10 @@ const Hero = () => {
         >
           {data['section-one'].title}
         </h1>
-        <p className='mt-2  text-pretty  text-center text-apple-50 text-[14px] leading-[1.6]'>
+        <p className='mt-2  text-pretty  text-center text-apple-50  leading-[1.6]'>
           {data['section-one'].subtitle.paragraph1}
         </p>
-        <p className='mt-2  text-pretty  text-center text-apple-50 text-[14px] leading-[1.6]'>
+        <p className='mt-2  text-pretty  text-center text-apple-50  leading-[1.6]'>
           {data['section-one'].subtitle.paragraph2}
         </p>
         <Button css='mt-4'>

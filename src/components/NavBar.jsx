@@ -12,13 +12,17 @@ const NavBar = () => {
   return (
     <header
       className={`
+ 
+      
       fixed top-0 left-0 w-full z-50
-      px-5 flex justify-between items-center  
+      px-5 flex justify-center items-center  
       h-header  
+        
       text-apple-50
-       ${hasScrolled ? ' bg-secondary' : 'bg-transparent'}
+        bg-secondary
        `}
     >
+      <div className='flex justify-between items-center w-full max-w-[1200px] h-[72px]'>
       <Logo />
       <button
         className='
@@ -30,6 +34,7 @@ const NavBar = () => {
       </button>
       <MenuMobile isOpen={isOpen} onClick={handleIsOpen} />
       <MenuDesktop />
+      </div>
     </header>
   );
 };

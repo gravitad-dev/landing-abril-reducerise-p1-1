@@ -20,20 +20,28 @@ function App() {
         <section className='py-[70px]'>
           <Solutions />
         </section>
-        <section className='py-[90px]'>
-          <Gallery />
-        </section>
-        <section className='py-[90px]'>
-          <Contact />
-        </section>
-        <section className='py-[90px]'>
-          <Quotes />
-        </section>
+      </Layout>
+
+      <Gallery />
+
+      <Layout>
         <section className='py-[90px]'>
           <Projects />
         </section>
+      </Layout>
+      
+      
+      <section className=''>
+        <Contact />
+      </section>
+
+      <Layout>
         <section className='py-[90px]'>
           <JoinUs />
+        </section>
+
+        <section className='py-[90px]'>
+          <Quotes />
         </section>
       </Layout>
       <Footer />
