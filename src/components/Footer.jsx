@@ -42,7 +42,7 @@ const Footer = () => {
       {/* bottom */}
       <div className='flex justify-center border-t border-neutral-50/10 mt-4 px-4 py-5 '>
         <div className="flex flex-col-reverse md:flex-row justify-between items-center w-full max-w-[1200px] gap-6">
-        <p className='text-center text-sm text-gray-400'>
+        <p className='text-center text-[13px] text-[#B1B1B1]'>
           REDUCE RISE © {new Date().getFullYear()}. Todos los derechos reservados.
         </p>
 
